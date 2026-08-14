@@ -1,0 +1,6 @@
+{
+  "name": "انتقام الجندي",
+  "description": "لعبة أكشن ملحمية مستوحاة من قصة خيانة الجندي في مملكة الشطرنج مع قتال حماسي، زعماء شطرنج، ترقيات وسينمائيات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
